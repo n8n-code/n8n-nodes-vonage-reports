@@ -55,7 +55,7 @@ That's it. No configuration files. No code. It just works.
 
 | Resource | Operations |
 |----------|------------|
-| Default | GET Retrieve call logs for your account |
+| Default | Get retrieve call logs for your account |
 
 ---
 
